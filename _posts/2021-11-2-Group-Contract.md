@@ -38,8 +38,8 @@ We have created a logo that encompasses the CCC's mission. It is made of yellow 
 We priortize functionality of the group and have stated hear our roles so during the project we are not confused. 
 <br>
 SANTI:
-Research
-Presentation and Formatting 
+Research,
+Presentation and Interviewer 
 <br>
 JAYDEN:
 Main coder 1
