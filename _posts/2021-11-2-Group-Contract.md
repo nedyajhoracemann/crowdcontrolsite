@@ -40,11 +40,11 @@ We priortize functionality of the group and have stated hear our roles so during
 SANTI:
 Research
 Presentation and Formatting 
-
+<br>
 JAYDEN:
 Main coder 1
 Interviewer
-
+<br>
 LYNN:
 Main coder 2
 Interviewer 
