@@ -20,7 +20,7 @@ We have created a logo that encompasses the CCC's mission. It is made of yellow 
 |------|-----------------|--------|-------|
 |Jayden| N/A |Compsci 2, Java | to discover how the crowds around dismissal and the library impact the lives of the students and staff individually. Also to find workarounds for the crowds and see how everyone interacts with them|
 |Santi| N/A | Python |Think of an innovative design that will positively affect the lives of the community|
-|Lynn| HM Skiing, Out of school skiiing|Work collaboratively in developing crowd control solution within  our community|
+|Lynn| HM Skiing, Out of school skiiing|HTML, CSS, Python |Work collaboratively in developing crowd control solution within  our community|
 
 <h1> We believe...</h1>
 -Everyone pitches in and equally accepts work and contributes ideas
