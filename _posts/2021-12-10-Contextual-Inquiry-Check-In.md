@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
 <body style="background-color:#fcbc2e;">
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
 
 # Contextual Inquiry Check-In
 <h1> Contextual Inquiry #1 - Peer Fly-on-the-wall </h1>
@@ -30,4 +25,4 @@ Once I got home I wrote down the takeaways from the interview. I noticed that th
 
 
 </body>
-</html>
+
