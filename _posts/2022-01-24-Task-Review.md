@@ -1,9 +1,23 @@
+---
+layout: post
+title: Task Review
+subtitle: by the CCC
+tags: [assignment, task review, images, diagrams]
+---
+
 # Affinity Diagram
+![macdiagram](https://user-images.githubusercontent.com/90795393/150591202-9839bde4-d739-49ba-8497-8aab08948f4a.jpeg)
+
+[Excalidraw Link](https://excalidraw.com/#room=4a494c8c6a274672b72b,i5se7lwQJo3iOzwZ8tuL4w)
+
+![excalidraw](https://user-images.githubusercontent.com/90795393/150591588-8eb95cb1-3f3b-4b55-9c4b-956c86cf4a87.jpeg)
 
 # Task Review Overview
 
-
 The tasks that we came up with were all interconnected within the areas and processes of crowds at horace mann, more specifically the library, snack, and dismissal areas. Our UX research was the main contributor to our tasks and we plan to continue to use this data as well as future observations to help prototype our design.
+
+## Snack Task (Distributor)
+Faculty member B walks through the school to Fischer Patio carrying a couple large Fresh-Direct bags full of snacks. Faculty member B brings the snack to Fischer which was a previously communicated location. This is a longer walk but provides a warm place for winter snack and ultimately was a wiser choice for B and the community. 
 
 
 ## Library → Snack Station (Student Perspective)
@@ -19,7 +33,4 @@ Student X finished science class and left Lutnick through the 1st floor exit fac
 
 ## Bus Task (Staff Perspective):
 Staff A left through Olshen Lobby with their neon green vest in preparation for the bus dismissal. They had the walkie talkies clipped on their belt and communicated with the security on Tibbett Avenue. Staff A and the other staff began to write down bus numbers on the whiteboard before school ended. Staff A then waited for about ten minutes for school to end. As the students continued to make their way to the whiteboard, Staff A was clearly overwhelmed by the amount of students. Staff A was holding a laminated sheet with the bus stops and routes. There were many students bombarding Staff A with questions. However, after ten minutes, all the students had found their way to the bus stop and Staff A went back into Olshan Lobby.
-
-## Snack Task (Distribute):
-Faculty member B walks through the school to Fischer Patio carrying large FreshDirect bags full of snacks. B brings the snack to Fischer which was a previously communicated location. This is a longer walk but provides a warm place for winter snack and ultimately was a wiser choice for B and the community.
 
