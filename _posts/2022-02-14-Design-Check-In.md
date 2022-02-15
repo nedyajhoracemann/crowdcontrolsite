@@ -25,6 +25,9 @@ Staff A left through Olshen Lobby with their neon green vest in preparation for 
 
 ## Design #1: Snack Stations around campus
 
+![designcheckin1](https://user-images.githubusercontent.com/95443524/154167990-2c3a621d-4352-4ad9-aa1c-c083b3d288c7.jpg)
+
+
 Every day during break, students come from all different buildings around campus and have to walk all the way around the field just to get to the snack station. This is not ideal for some people who have to fit in multiple activities between this 15 minute period such as printing documents, stoppiing by a teachers office, or getting across the field again early in preparation for an exam. The wintertime makes this an even harder task to do because the field is closed off and everyone is forced to walk all in one area. Installing multiple snack stations at many popular locations on campus addresses this problem by cutting down the time students have to walk outside in the cold to run and get a snack, eat it away from people (usually outside), and complete whatever tasks they need to do before their D period class. These stations could either be run by their own staff member who would hand out the snacks to students, or they could be electronic and hand out snacks like a vending machine. With the electronic choice the machines would be programmed to open at 10:00 and close at 10:15 and (crazy idea but it could recoognize if someone is getting multiple snacks in one break to insure that everyone has a chance to get the snack of their choice without having to worry about someone getting more than they should.)
 #### The tasks that this addresses are:
 1. getting snack during break
