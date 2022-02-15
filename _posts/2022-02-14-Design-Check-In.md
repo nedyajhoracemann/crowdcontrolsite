@@ -37,8 +37,15 @@ Every day during break, students come from all different buildings around campus
 
 
 
-## Design #2: 
+## Design #2: Campus Renovation and Overhaul ~ Zen Horace Mann
+![Scannable Document on Feb 14, 2022 at 3_00_21 PM](https://user-images.githubusercontent.com/90795393/154168237-d2e38e92-b014-4645-9949-005f1a30754e.png)
 
+This idea is fairly radical. It is our out-of-the-box idea. The image above is relatively self explanitory. Using our imaginations we proposed the creation of HM 2.0. The design includes overall more tranquil and open concept campus. The campus would also remove the heavily busy hallways in large building and place yurts around campus. Students could walk peacefully to a geometry yurt for class or walk to the English Yurt Pavilion.
+
+#### The tasks that this addresses are:
+1. Limiting lines and closed spaces
+2. Opening up campus
+3. Reducess opportunities for lines and bottlenecks
 
 
 
