@@ -49,4 +49,13 @@ This idea is fairly radical. It is our out-of-the-box idea. The image above is r
 
 
 
-## Design #3:
+## Design #3: Introducing an HM App that Informs Students
+
+The focus of the CCC is dealing with crowds that form throughout the campus. Two moments where large crowds form are when getting snack during break at 10:00 a.m, and towards the end of the day when everyone is heading towards the buses. This app focuses on informing students with information about the location of their buses and what snack there is that day. The app would have a login feature that would personalize the information to each students’ needs. For example, instead of having to force through crowds and ask the staff what number your bus is, the app tells you what number your bus is and where along Tibbett Avenue it is. The information will update daily in case of any sudden changes. The second option inside of the app will inform students on the snack of the day. Because crowds always form because people don’t know what the snack is, this app will hopefully partially eliminate crowds from forming. 
+
+
+#### The tasks that this adresses are:
+1. Facilitating crowds by informing everyone their bus numbers and their location
+2. Facilitating crowds in snack area by informing people what snack their is for that day
+3. Opens up the campus 
+
