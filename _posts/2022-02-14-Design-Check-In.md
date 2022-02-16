@@ -45,7 +45,7 @@ This idea is fairly radical. It is our out-of-the-box idea. The image above is r
 #### The tasks that this addresses are:
 1. Limiting lines and closed spaces
 2. Opening up campus
-3. Reducess opportunities for lines and bottlenecks
+3. Reduces opportunities for lines and bottlenecks
 
 
 
