@@ -1,3 +1,12 @@
+---
+layout: post
+title: Usability Testing Lab
+#cover-img:
+#thumbnail-img: 
+#share-img: 
+tags: [usability, lab, testing]
+---
+
 ### Usability Testing Lab
 
 The CCC is focusing on dispersing crowds throughout our local community (Horace Mann campus) in order to make the student’s daily lives easier. Our design sketch revolves around informing students on their bus number/location and the snack locations around campus. The design takes the form of an app. By making the design an app, it will ideally make it more accessible for students around the campus. We came to this conclusion by performing many interviews, fly-on-the-wall-labs, and UX research. Our first contextual inquiry was taken via Fly-On-The-Fall observation, we were able to see many crowded situations throughout Olshan lobby and mainy doors and staircases. In our second contextual inquiry we collected information through a mixed method, from this we learned that faculty members had taken notes on such issues and hoped to resolve these issues. From this research we were guided to three main ideas: zenHM, organizing snacks, and an app for buses. 
