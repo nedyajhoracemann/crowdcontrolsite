@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Crowd Control Commmittee Team Contract
+title: Usability Test pt. 2
 subtitle: 
 #cover-img:
 #thumbnail-img: 
