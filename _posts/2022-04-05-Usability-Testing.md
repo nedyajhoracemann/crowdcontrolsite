@@ -1,10 +1,7 @@
 ---
 layout: post
-title: Usability Test pt. 2
-subtitle: 
-#cover-img:
-#thumbnail-img: 
-#share-img: 
+title: Usability Test
+subtitle: pt. 2
 tags: [usability]
 ---
 
