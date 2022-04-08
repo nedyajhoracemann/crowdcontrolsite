@@ -8,16 +8,7 @@ subtitle:
 tags: [usability]
 ---
 
----
-layout: post
-title: Usability Test pt. 2
-subtitle: 
-#cover-img:
-#thumbnail-img: 
-#share-img: 
-tags: [usability]
----
-# Paper Model
+Paper  Model
 ![IMG_0319](https://user-images.githubusercontent.com/90795393/160909169-3c0f21fd-e651-4e0b-b4c5-1a9b9a46b7a8.JPG)
 
 ![IMG_0320](https://user-images.githubusercontent.com/90795393/160909179-26d7530e-ea1b-4dcf-8313-1b4bffa14f2e.JPG)
