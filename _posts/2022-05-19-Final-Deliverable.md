@@ -6,6 +6,13 @@ tags: [final, ccc, crowd control committee, images]
 ---
 
 ## Paper  Model
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://picsum.photos/300/300"
+  >
+</p>
 ![IMG_0319](https://user-images.githubusercontent.com/90795393/160909169-3c0f21fd-e651-4e0b-b4c5-1a9b9a46b7a8.JPG) alt= width="200"
 
 ![IMG_0320](https://user-images.githubusercontent.com/90795393/160909179-26d7530e-ea1b-4dcf-8313-1b4bffa14f2e.JPG)
