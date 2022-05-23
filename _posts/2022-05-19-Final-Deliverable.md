@@ -33,19 +33,19 @@ Jayden-
 ## Appendix
 <a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2021-11-02-Group-Contract/">Crowd Control Committee Team Contract</a>
 
-<a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2021-12-02-Group-Members/">Meet Our Group Members/a>
+<a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2021-12-02-Group-Members/">Meet Our Group Members</a>
  
- <a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2021-12-04-Group-Project-Proposal/">Group Project Proposal/a>
+ <a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2021-12-04-Group-Project-Proposal/">Group Project Proposal</a>
   
- <a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2021-12-10-Contextual-Inquiry-Analysis/">Contextual Inquiry Analysis/a>  
+ <a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2021-12-10-Contextual-Inquiry-Analysis/">Contextual Inquiry Analysis</a>  
   
- <a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2022-01-24-Task-Review/">Task Review/a>
+ <a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2022-01-24-Task-Review/">Task Review</a>
   
- <a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2022-02-03-Usability-Testing-Lab/">Usability Testing Lab/a>
+ <a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2022-02-03-Usability-Testing-Lab/">Usability Testing Lab</a>
   
-<a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2022-02-14-Design-Check-In/">Design Check In/a>
+<a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2022-02-14-Design-Check-In/">Design Check In</a>
  
-<a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2022-04-05-Usability-Testing/">Usabability Test pt. 2/a>
+<a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2022-04-05-Usability-Testing/">Usabability Test pt. 2</a>
  
-<a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2022-05-19-Final-Deliverable/">Final Deliverable for Crowd Control Committee/a>
+<a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2022-05-19-Final-Deliverable/">Final Deliverable for Crowd Control Committee</a>
               
