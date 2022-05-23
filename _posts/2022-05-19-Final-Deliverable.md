@@ -7,39 +7,10 @@ tags: [final, ccc, crowd control committee, images]
 
 ## Paper Model
 
-<div class="row">
-  <div class="column">
     <img src="https://user-images.githubusercontent.com/90795393/160909179-26d7530e-ea1b-4dcf-8313-1b4bffa14f2e.JPG" alt="" width="150"/> 
-  </div>
-  <div class="column">
     <img src="https://user-images.githubusercontent.com/90795393/160909191-87b29674-8cda-4042-9d49-c60002365f08.JPG" alt="" width="150"/>
-  </div>
-  <div class="column">
     <img src="https://user-images.githubusercontent.com/90795393/160909201-ea371e4d-877f-479d-a31a-29f0a9a35e36.JPG" alt="" width="150"/>
-  </div>
-</div>
 
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
-
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-.row {
-  display: flex;
-}
-
-.column {
-  flex: 33.33%;
-  padding: 5px;
-}
 
 
 
