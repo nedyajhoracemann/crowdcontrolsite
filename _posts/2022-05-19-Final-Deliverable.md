@@ -7,8 +7,8 @@ tags: [final, ccc, crowd control committee, images]
 
 ## Each team member's name and role
 |Name| Role| Skills    | Goals  |  
-|Jayden| Junior Team Captain | to discover how the crowds around dismissal and the library impact the lives of the students and staff individually. Also to find workarounds for the crowds and see how everyone interacts with them|
-|Santi| Research | Python |Think of an innovative design that will positively affect the lives of the community|
+|Jayden| Junior Team Captain | Compsci 2| Discover how crowds impact the lives of the students and staff individually|
+|Santi|Research| Python|Think of an innovative design that will positively affect the lives of the community|
 |Lynn| Hi-Fi xCode model|HTML, CSS, Python |Work collaboratively in developing crowd control solution within  our community|
 |------|-----------------|--------|----|
 
