@@ -30,6 +30,15 @@ NEEDS TO BE ADDED
 
 ## Discussion and Implementation Plan
 
+Contextual Inquiry #1 - Peer Fly-on-the-wall
+Participant A was a student in the community and their task was to leave the library and get snacks. From this we observed many students blocking hallways chatting and snacking as well as no direction in the snack line. It took almost all of a break for Participant A to get their snack because of overcrowding in the line. 
+
+Contextual Inquiry #2 - Faculty Mixed Method Information Collection
+Participant B was a non-student during snack. Their role in the HM snack period is significant, as they are the organizer and distributor. Participant B was more engaged with speaking to the CCC and giving their insights on moving the snack from Olshan to Spence. Participant B seemed at ease when handing out snacks because there were less students. 
+
+Contextual Inquiry #3 - Dismissal
+Participant X was tasked with going to the buses at the end of the day. Participant x experienced extended wait time and was blocked by different groups of students standing in the middle of the thin road. It improves the crowds and the CCC will continue to take these contextual inquiries into account while looking for solutions in the future.
+
 ## Appendix
 <a href="https://nedyajhoracemann.github.io/crowdcontrolsite/2021-11-02-Group-Contract/">Crowd Control Committee Team Contract</a>
 
