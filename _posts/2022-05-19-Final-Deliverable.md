@@ -27,6 +27,8 @@ NEEDS TO BE ADDED
 | <img src="https://user-images.githubusercontent.com/90795393/160909201-ea371e4d-877f-479d-a31a-29f0a9a35e36.JPG" alt="" width="150"/> | ADD DESCRIPTION |
 ## Digital mockup and testing results
 
+## Problem definition and Proposed solution overview
+The HM community struggles to maintain a smooth flowing environment in common areas due to lack of information and distractions. The two most congested places are the bus-dismissal area and the snack location outside of Olshan Lobby. It is difficult to find a specific bus or get a snack. The Crowd Control Committee is devoted to solving this issue and promoting community engagement.
 
 ## Discussion and Implementation Plan
 
