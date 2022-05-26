@@ -15,14 +15,16 @@ tags: [final, ccc, crowd control committee, images]
 
 
 ## Initial paper prototype
-
+NEEDS TO BE ADDED
 ## Usability Testing Process and Results
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXNdv1DpaX1GNaEwQChLuty%2FWIREFRAME-DRAFT-DESIGN%3Fnode-id%3D4%253A4%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D4%253A4" allowfullscreen></iframe>
 
-## Final paper prototype and initial digital mockup 
- <img src="https://user-images.githubusercontent.com/90795393/160909179-26d7530e-ea1b-4dcf-8313-1b4bffa14f2e.JPG" alt="" width="150"/>, <img src="https://user images.githubusercontent.com/90795393/160909191-87b29674-8cda-4042-9d49-c60002365f08.JPG" alt="" width="150"/>
-    
-  <img src="https://user-images.githubusercontent.com/90795393/160909201-ea371e4d-877f-479d-a31a-29f0a9a35e36.JPG" alt="" width="150"/>
+## Final paper prototype and initial digital mockup
+| Title & Description |
+| ------------------- |
+| <img src="https://user-images.githubusercontent.com/90795393/160909179-26d7530e-ea1b-4dcf-8313-1b4bffa14f2e.JPG" alt="" width="150"/> |
+| <img src="https://user images.githubusercontent.com/90795393/160909191-87b29674-8cda-4042-9d49-c60002365f08.JPG" alt="" width="150"/> |
+| <img src="https://user-images.githubusercontent.com/90795393/160909201-ea371e4d-877f-479d-a31a-29f0a9a35e36.JPG" alt="" width="150"/> |
 ## Digital mockup and testing results
 
 
