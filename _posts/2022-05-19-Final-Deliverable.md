@@ -13,27 +13,6 @@ tags: [final, ccc, crowd control committee, images]
 | Santi | Research | Python | Think of an innovative design that will positively affect the lives of the community |
 | Lynn | Hi-Fi xCode model | HTML, CSS, Python | Work collaboratively in developing crowd control solution within  our community |
 
-
-
-## Initial paper prototype
-
-<img src="https://github.com/nedyajhoracemann/crowdcontrolsite/blob/master/assets/img/Screenshot.png?raw=true" alt="" width="150"/>
-
-## Usability Testing Process and Results
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXNdv1DpaX1GNaEwQChLuty%2FWIREFRAME-DRAFT-DESIGN%3Fnode-id%3D4%253A4%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D4%253A4" allowfullscreen></iframe>
-
-## Final paper prototype and initial digital mockup
-
-| Image | Title & Description |
-| ------------------- | ------ |
-| <img src="https://user-images.githubusercontent.com/90795393/160909179-26d7530e-ea1b-4dcf-8313-1b4bffa14f2e.JPG" alt="" width="150"/> | ADD DESCRIPTION |
-| <img src="https://github.com/nedyajhoracemann/crowdcontrolsite/blob/master/assets/img/Screen%20Shot%202022-05-27%20at%202.57.48%20PM.png?raw=true" alt="" width="150"/> | ADD DESCRIPTION |
-| <img src="https://user-images.githubusercontent.com/90795393/160909201-ea371e4d-877f-479d-a31a-29f0a9a35e36.JPG" alt="" width="150"/> | ADD DESCRIPTION |
-| <img src="https://github.com/nedyajhoracemann/crowdcontrolsite/blob/master/assets/img/Screen%20Shot%202022-05-27%20at%202.54.24%20PM.png?raw=true" alt="" width="150"/> | ADD DESCRIPTION |
-
-## Digital mockup and testing results
-
 ## Problem definition and Proposed solution overview
 
 The HM community struggles to maintain a smooth flowing environment in common areas due to lack of information and distractions. The two most congested places are the bus-dismissal area and the snack location outside of Olshan Lobby. It is difficult to find a specific bus or get a snack. The Crowd Control Committee is devoted to solving this issue and promoting community engagement.
@@ -48,6 +27,26 @@ Participant B was a non-student during snack. Their role in the HM snack period 
 
 Contextual Inquiry #3 - Dismissal
 Participant X was tasked with going to the buses at the end of the day. Participant x experienced extended wait time and was blocked by different groups of students standing in the middle of the thin road. It improves the crowds and the CCC will continue to take these contextual inquiries into account while looking for solutions in the future.
+
+## Initial paper prototype
+
+<img src="https://github.com/nedyajhoracemann/crowdcontrolsite/blob/master/assets/img/Screenshot.png?raw=true" alt="" width="150"/>
+
+## Usability Testing Process and Results
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXNdv1DpaX1GNaEwQChLuty%2FWIREFRAME-DRAFT-DESIGN%3Fnode-id%3D4%253A4%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D4%253A4" allowfullscreen></iframe>
+
+## Final paper prototype and initial digital mockup
+
+| Image | Title & Description |
+| ------------------- | ------ |
+| <img src="https://user-images.githubusercontent.com/90795393/160909179-26d7530e-ea1b-4dcf-8313-1b4bffa14f2e.JPG" alt="" width="150"/> | Page used to find the users bus number and parking spot/location |
+| <img src="https://github.com/nedyajhoracemann/crowdcontrolsite/blob/master/assets/img/Screen%20Shot%202022-05-27%20at%202.57.48%20PM.png?raw=true" alt="" width="150"/> | Main Page where user can access any menu after logging into their account |
+| <img src="https://user-images.githubusercontent.com/90795393/160909201-ea371e4d-877f-479d-a31a-29f0a9a35e36.JPG" alt="" width="150"/> | Daily Snack page with a map to find where the snack stands are and which stands are the most crowded |
+| <img src="https://github.com/nedyajhoracemann/crowdcontrolsite/blob/master/assets/img/Screen%20Shot%202022-05-27%20at%202.54.24%20PM.png?raw=true" alt="" width="150"/> | Login Page to give each user a customized experience that allows them to save their stop and complete tasks faster in the future |
+
+## Digital mockup and testing results
+
 
 ## Discussion and Implementation Plan
 
