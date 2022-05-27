@@ -34,7 +34,15 @@ Participant X was tasked with going to the buses at the end of the day. Particip
 
 ## Usability Testing Process and Results
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXNdv1DpaX1GNaEwQChLuty%2FWIREFRAME-DRAFT-DESIGN%3Fnode-id%3D4%253A4%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D4%253A4" allowfullscreen></iframe>
+### Test 1
+The first usability test was conducted in the library with a sophmore. They were tasked with finding the daily snack and their bus number on our prototype. The Login page confused the subject because they did not know what email and password they had to use.  We instructed them to use their HM email/password to login into their profile. Then they accessed the bus and location page by clicking it. They noted that they did not realize the map feature needed to be clicked to expand. They appreciated the feature that gave them information on their bus number and the location. Additionally they liked the keyboard feature where they could type their address. Next they went to their next task. They said that the information that told him what the daily snack was very helpful. The Heat map confused the subject and they cited the lack of key as the reason.
+
+### Test 2
+The second usability test was conducted in the App Development classroom at a desk. Participant S was seated and the test conductor stood across from S. S is a junior in our App Development. One flaw is our closeness to S. Additionally, more context could have been provided earlier about the app and tasks. S complimented the arrow and said, “it was useful”. S said that they needed an agree button. We guided S to go find their bus and find the weekly snack. When finding the daily snack S clicked on the key for the map first. One issue was when the map expanded this blocked information below it and we had not yet created a back-button/ closeout button. It was also evident that people used the app from top to bottom and read as such. This might have been a reason why S felt “lost and isolated”. After we placed an “in progress sign” and then sent user S back to the main page. Features that S felt were helpful were the heat map, list of snacks, and bus number. The main change we should consider is having back buttons that are obvious.
+
+### Test 3
+The final usability test went really well since we made some of the minor changes from the previous. Starting from the home page of our website again, I told the participant that his task was to find his bus number and check where his bus was parked for dismissal. Automatically, he locked on to the login button and I pulled up the second page with the login. He clicked on the username button and asked me, “What exactly is my username? Is it my horace mann email? Is it my login that I use in first class? This question made me think to myself and we plan to add a small box that says to use your first class login for this username and password. Then the participant clicked the back button and navigated to the bus finder section of our app. Once in this menu, they could see their bus number at the top since they logged in, and they now clicked on the map to find their bus. The map pops up and they were easily able to see where their bus was, and I informed them that the map was not drawn to scale yet. I think the advice from past usability tests helped make this final test way more successful than the previous ones.
+
 
 ## Final paper prototype and initial digital mockup
 
@@ -44,6 +52,9 @@ Participant X was tasked with going to the buses at the end of the day. Particip
 | <img src="https://github.com/nedyajhoracemann/crowdcontrolsite/blob/master/assets/img/Screen%20Shot%202022-05-27%20at%202.57.48%20PM.png?raw=true" alt="" width="150"/> | Main Page where user can access any menu after logging into their account |
 | <img src="https://user-images.githubusercontent.com/90795393/160909201-ea371e4d-877f-479d-a31a-29f0a9a35e36.JPG" alt="" width="150"/> | Daily Snack page with a map to find where the snack stands are and which stands are the most crowded |
 | <img src="https://github.com/nedyajhoracemann/crowdcontrolsite/blob/master/assets/img/Screen%20Shot%202022-05-27%20at%202.54.24%20PM.png?raw=true" alt="" width="150"/> | Login Page to give each user a customized experience that allows them to save their stop and complete tasks faster in the future |
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXNdv1DpaX1GNaEwQChLuty%2FWIREFRAME-DRAFT-DESIGN%3Fnode-id%3D4%253A4%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D4%253A4" allowfullscreen></iframe>
+
 
 ## Digital mockup and testing results
 
