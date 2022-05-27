@@ -16,9 +16,11 @@ tags: [final, ccc, crowd control committee, images]
 
 
 ## Initial paper prototype
-NEEDS TO BE ADDED
+
 <img src="https://github.com/nedyajhoracemann/crowdcontrolsite/blob/master/assets/img/Screenshot.png" alt="" width="150"/>
+
 ## Usability Testing Process and Results
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FXNdv1DpaX1GNaEwQChLuty%2FWIREFRAME-DRAFT-DESIGN%3Fnode-id%3D4%253A4%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D4%253A4" allowfullscreen></iframe>
 
 ## Final paper prototype and initial digital mockup
@@ -32,6 +34,7 @@ NEEDS TO BE ADDED
 ## Digital mockup and testing results
 
 ## Problem definition and Proposed solution overview
+
 The HM community struggles to maintain a smooth flowing environment in common areas due to lack of information and distractions. The two most congested places are the bus-dismissal area and the snack location outside of Olshan Lobby. It is difficult to find a specific bus or get a snack. The Crowd Control Committee is devoted to solving this issue and promoting community engagement.
 
 ## Contextual Inquiry Results and Key Tasks
