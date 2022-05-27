@@ -17,7 +17,7 @@ tags: [final, ccc, crowd control committee, images]
 
 ## Initial paper prototype
 
-<img src="https://github.com/nedyajhoracemann/crowdcontrolsite/blob/master/assets/img/Screenshot.png" alt="" width="150"/>
+<img src="https://github.com/nedyajhoracemann/crowdcontrolsite/blob/master/assets/img/Screenshot.png?raw=true" alt="" width="150"/>
 
 ## Usability Testing Process and Results
 
