@@ -6,6 +6,7 @@ tags: [final, ccc, crowd control committee, images]
 ---
 
 ## Each team member's name and role
+
 | Name | Role | Skills | Goals  |  
 | ------ | ----------------- | -------- | ---- |
 | Jayden | Junior Team Captain | Compsci 2 | Discover how crowds impact the lives of the students and staff individually |
